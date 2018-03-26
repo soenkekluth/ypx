@@ -1,0 +1,24 @@
+{
+  "name": "ypx",
+  "version": "0.0.9",
+  "description": "npx for yarn / alias for yarn run",
+  "bin": {
+    "ypx": "./ypx.sh",
+    "yarx": "./ypx.sh"
+  },
+  "main": "ypx.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soenkekluth/ypx.git"
+  },
+  "keywords": ["yarn", "run", "local", "bin", "scripts", "script", "package", "project", "npx", "npm run", "yarn run", "alias", "cli", "global"],
+  "author": "Sönke Kluth <mail@soenkekluth.com> (https://soenkekluth.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soenkekluth/ypx/issues"
+  },
+  "homepage": "https://github.com/soenkekluth/ypx#readme"
+}
