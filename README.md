@@ -1,4 +1,6 @@
 # ypx
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/ypx.svg)](https://greenkeeper.io/)
 npx for yarn / alias for yarn run
 
 ## Install
